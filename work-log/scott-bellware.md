@@ -1,4 +1,4 @@
-# Scott Bellware
+# Scott Bellware Work Log
 
 ## Tue Mar 6 2018
 - Maintenance of contributor-assets in preparation of adding label standardization scripts
