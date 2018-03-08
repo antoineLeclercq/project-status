@@ -1,5 +1,12 @@
 # Scott Bellware Work Log
 
+## Wed Mar 7 2018
+- Completed the standardization of issues labels in the eventide-project and eventide-examples orgs
+- Re-tagged existing issues with new labels
+- [realization] "Problem" label is insufficient for categorizing things that are mistakes
+- Added the "mistake" label, and adjusted the color of the problem label
+- Set up ZenHub. One of the worst inception user experiences imaginable.
+
 ## Tue Mar 6 2018
 - Maintenance of contributor-assets in preparation of adding label standardization scripts
 - Removed obsolete repositories: work-log and planning
