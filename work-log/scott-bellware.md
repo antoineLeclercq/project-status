@@ -1,5 +1,33 @@
 # Scott Bellware Work Log
 
+## Sun Mar 19 2018
+- Completed first draft of contributor guide
+
+## Sun Mar 18 2018
+- Contributor guide
+
+## Fri Mar 16 2018
+- Contributor guide
+
+## Thu Mar 15 2018
+- Contributor guide
+
+## Web Mar 14 2018
+- Made corrections to website copy
+- Corrected entity level label
+- Removed help wanted label
+- Started contributor guide
+
+## Tue Mar 13 2018
+- Reviewed presentation flow for Wroc_love.rb with Nathan. Good stuff. Better foundation for general-audience talk building on the presentation from Explore DDD.
+
+## Thu Mar 8 2018
+- Explored options for creating a 64-bit number from a stream name to use as the ID for an advisory lock
+- Got an answer on Twitter from Greg Navis (@gregnavis) that uses MD5.
+- Talked over the solution with Josh and we're both comfortable with the approach and the implications
+- Continued the discussion on the Eventide Slack org about security and encryption
+- Added issues to GitHub repos that I had been keeping track of only in my notes
+
 ## Wed Mar 7 2018
 - Completed the standardization of issues labels in the eventide-project and eventide-examples orgs
 - Re-tagged existing issues with new labels
