@@ -4,6 +4,7 @@
 - Revisions of contributor guide and supporting materials
 - Announced contributor guide
 - Polled community for interests in materials and articles
+- Prioritized and categorized work items
 
 ## Sun Mar 19 2018
 - Completed first draft of contributor guide
