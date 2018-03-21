@@ -1,12 +1,12 @@
 # Scott Bellware Work Log
 
-## Mon Mar 21 2018
+## Tue Mar 20 2018
 - Revisions of contributor guide and supporting materials
 - Announced contributor guide
 - Polled community for interests in materials and articles
 - Prioritized and categorized work items
 
-## Sun Mar 19 2018
+## Mon Mar 19 2018
 - Completed first draft of contributor guide
 
 ## Sun Mar 18 2018
