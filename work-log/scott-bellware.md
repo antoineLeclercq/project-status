@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Wed Mar 21 2018
+- Wrote project update
+- Did work items (and closed PRs) on the workshop setup instructions that were submitted by participants in the Victoria workshop
+
 ## Tue Mar 20 2018
 - Revisions of contributor guide and supporting materials
 - Announced contributor guide
