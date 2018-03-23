@@ -1,5 +1,13 @@
 # Scott Bellware Work Log
 
+## Thu Mar 22 2018
+- Chatted with Alexander about the issue on the casing library
+- Reviewed and merged Billium's pull request on the log library
+- Annotated the issue filed on the cycle library to make it more approachable as an entry-level work item
+- Updated the website's contributor's page
+- Founds and removed vestigial gems on the Eventide rubygems.org account
+- Started on the component generator issues
+
 ## Wed Mar 21 2018
 - Wrote project update
 - Did work items (and closed PRs) on the workshop setup instructions that were submitted by participants in the Victoria workshop
