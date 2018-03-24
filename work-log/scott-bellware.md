@@ -1,5 +1,12 @@
 # Scott Bellware Work Log
 
+## Fri Mar 23 2018
+- Weekly online meetup
+- Forgot about documentation meeting with Ashley. Rescheduled to Fri Apr 6.
+- Removed default values capability from initializer
+- Remediated issue with schema attributes where assigning a nil to an attribute with a default value would reset the value to the default rather than retain the nil value
+- Started looking into the removal of transient attributes
+
 ## Thu Mar 22 2018
 - Chatted with Alexander about the issue on the casing library
 - Reviewed and merged Billium's pull request on the log library
