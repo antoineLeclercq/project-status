@@ -1,5 +1,16 @@
 # Scott Bellware Work Log
 
+## Tue Mar 27 2018
+- Finished first implementation of the protocol library
+- Will start on its integration into the transform library tomorrow
+
+## Mon Mar 26 2018
+- Protocol library
+
+## Sat Mar 24 2018
+- Removed from consideration the removal of transient attributes. They are used to provide type checking for regular assets.
+- Started in protocol discovery library
+
 ## Fri Mar 23 2018
 - Weekly online meetup
 - Forgot about documentation meeting with Ashley. Rescheduled to Fri Apr 6.
