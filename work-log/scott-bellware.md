@@ -1,5 +1,17 @@
 # Scott Bellware Work Log
 
+## Wed Mar 28 2018
+- Started work on integrating the Protocol library into the Transform library
+- Met with Nathan to catch up and do a bit of planning
+- Once deep into the transform code, I realized (remembered) how different it's use of protocol discovery is, and that the Protocol library isn't sufficient
+- Suspended work on Transform while closing the gap with Protocol
+- Protocol now has a `strict` parameter that varies the behavior when parts of the protocol are not discoverable. It will either raise an error or return nil.
+- Continued elaborating Protocol
+- Need to add the capability to Protocol to check that the protocol implementation accessor (or any method) is present, but without invoking it.
+- Will create a `Check` namespace that does protocol namespace discovery, and then tests to see whether the accessor is implemented.
+- Conversely, I could just use the raw internals of Protocol from Transform
+- Will get further into the details tomorrow
+
 ## Tue Mar 27 2018
 - Finished first implementation of the protocol library
 - Will start on its integration into the transform library tomorrow
