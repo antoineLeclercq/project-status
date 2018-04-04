@@ -1,5 +1,24 @@
 # Scott Bellware Work Log
 
+## Tue Apr 3 2018
+- Completed integration of Reflect into Transform
+
+## Mon Apr 2 2018
+- Integrating Reflect into Transform
+
+## Sun Apr 1 2018
+- Completed first operational increment of the Reflect library
+- Started integrating Reflect with Transform
+
+## Fri Mar 30 2018
+- Reflect library
+
+## Thu Mar 29 2018
+- [decision] Protocol should have been Reflect
+- The Reflect implementation should be focused only on reflection
+- [realization] The protocol discover can't be generalized across all scenarios
+- Only the reflection part can be generalized (inner constants and accessor methods)
+
 ## Wed Mar 28 2018
 - Started work on integrating the Protocol library into the Transform library
 - Met with Nathan to catch up and do a bit of planning
