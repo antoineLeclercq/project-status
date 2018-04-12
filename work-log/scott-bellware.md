@@ -1,5 +1,35 @@
 # Scott Bellware Work Log
 
+## Wed Apr 11 2018
+- Integrated Reflect into SubstAttr, including support for ancestor lookup
+
+## Tue Apr 10 2018
+- Reconsidered the suspension of the SubstAttr effort
+- Talked with Nathan, and agreed that the ancestor lookup is a correct feature for Reflect
+- Added support for ancestor lookup to Reflect
+
+## Mon Apr 9 2018
+- Realized that Reflect is a poor fit for SubstAttr
+- SubstAttr needs to use the variant of `const_get` that considers constants in ancestors
+- Suspended the effort
+- Added direct support for SubstAttr::Substitute to Dependency
+
+## Sat Apr 7 2018
+- Closed test coverage gap on inner reflection having it's strictness set as an argument to the `get` call
+- Looked at test-bench to see if I could integrate Reflect into it. Will wait on guidance from Nathan as to whether he wants this
+- Started integrating Reflect into SubstAttr
+
+## Fri Apr 6 2018
+- Met with Ashley to get resources in-place for converting the tutorial to a self-paced training document
+- Completed integrating Reflect into Validate
+
+## Thu Apr 5 2018
+- Integrating Reflect into Validate
+- Retro-fitting some new requirements into Reflect that have emerged from working in Validate
+
+## Wed Apr 4 2018
+- Started integration of Reflect into Validate
+
 ## Tue Apr 3 2018
 - Completed integration of Reflect into Transform
 
