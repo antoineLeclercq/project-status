@@ -1,5 +1,14 @@
 # Scott Bellware Work Log
 
+## Fri Apr 13 2018
+- Completed telemetry and logging for Retry
+- Communicated the basic to Sam Stickland
+- Found issue in Log library where colors codes are present when device is not a TTY
+
+## Thu Apr 12 2018
+- Started work on the Retry library, and integrating Telemetry into it, as well as enabling it to be used as a dependency
+- Wrote project update
+
 ## Wed Apr 11 2018
 - Integrated Reflect into SubstAttr, including support for ancestor lookup
 
