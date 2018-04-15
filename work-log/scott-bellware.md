@@ -1,5 +1,12 @@
 # Scott Bellware Work Log
 
+## Sat Apr 14 2018
+- Communicated with Nathan about TTY detection in the Log library
+- Nathan offered to look into it
+- TTY detection is a blind spot for me
+- I took time to familiarize myself with how TestBech does it
+- Implemented in in the Log library
+
 ## Fri Apr 13 2018
 - Completed telemetry and logging for Retry
 - Communicated the basic to Sam Stickland
