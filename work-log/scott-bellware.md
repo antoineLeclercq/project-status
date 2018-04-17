@@ -1,5 +1,8 @@
 # Scott Bellware Work Log
 
+## Mon Apr 16 2018
+- Documentation of streams
+
 ## Sat Apr 14 2018
 - Communicated with Nathan about TTY detection in the Log library
 - Nathan offered to look into it
