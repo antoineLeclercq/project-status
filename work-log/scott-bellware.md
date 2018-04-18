@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Tue Apr 17 2018
+- Documentation of streams
+- Assessed Docusaurus and MkDocs. Both missed the mark. Went back begrudgingly to GitBook.
+
 ## Mon Apr 16 2018
 - Documentation of streams
 
