@@ -1,5 +1,10 @@
 # Scott Bellware Work Log
 
+## Wed Apr 18 2018
+- High-level outline of docs site and placeholder pages
+- Facts, rather than FAQs
+- Service facts
+
 ## Tue Apr 17 2018
 - Documentation of streams
 - Assessed Docusaurus and MkDocs. Both missed the mark. Went back begrudgingly to GitBook.
