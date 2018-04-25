@@ -1,5 +1,11 @@
 # Scott Bellware Work Log
 
+## Tue Apr 24 2018
+- Message facts
+- Will Howard's change to the output of the message dump
+- Changed the utility name to evt-pg-print-messages
+- Francesco found and fixed a potential data type boundary problem with the Postgres implementation
+
 ## Fri Apr 20 2018
 - Documentation
 
