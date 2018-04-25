@@ -1,5 +1,11 @@
 # Scott Bellware Work Log
 
+## Fri Apr 20 2018
+- Documentation
+
+## Thu Apr 19 2018
+- Documentation
+
 ## Wed Apr 18 2018
 - High-level outline of docs site and placeholder pages
 - Facts, rather than FAQs
