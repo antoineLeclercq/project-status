@@ -1,5 +1,28 @@
 # Scott Bellware Work Log
 
+## Wed May 2 2018
+- Completed applying project standards to Settings
+
+## Tue May 1 2018
+- Applying project standards to Settings
+
+## Mon Apr 30 2018
+- Found that Settings is not brought up to project standards
+- Started applying project standards to Settings
+
+## Sun Apr 29 2018
+- Integrated Reflect into Validate
+
+## Fri Apr 27 2018
+- Integrated Reflect into Transform
+
+## Thu Apr 26 2018
+- Completed integrating Reflect into Virtual
+- Documentation
+
+## Wed Apr 25 2018
+- Started integrating Reflect into Virtual
+
 ## Tue Apr 24 2018
 - Message facts
 - Will Howard's change to the output of the message dump
