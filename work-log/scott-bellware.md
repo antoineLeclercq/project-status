@@ -1,5 +1,10 @@
 # Scott Bellware Work Log
 
+## Fri May 4 2018
+- Prep for class in Toronto
+- Printing
+- Review materials
+
 ## Wed May 2 2018
 - Completed applying project standards to Settings
 
