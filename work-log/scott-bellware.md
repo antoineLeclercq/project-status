@@ -1,5 +1,8 @@
 # Scott Bellware Work Log
 
+## Sat May 5 2018 - Sat May 12 2018
+- Workshops in Toronto
+
 ## Fri May 4 2018
 - Prep for class in Toronto
 - Printing
