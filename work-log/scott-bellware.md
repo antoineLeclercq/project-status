@@ -1,5 +1,32 @@
 # Scott Bellware Work Log
 
+## Mon Jun 04 2018
+- Put and get benchmarks for message_store-postgres
+- Struggled with Advisory locks
+- Nathan found the issue, being that the session-level lock is released before the transaction is committed, which happens in the client only after the server function has terminated
+- Switching to a transaction-level lock was the solution
+- Benchmarked the put and get operations both before and after the advisory lock implementation
+
+## Sun Jun 03 2018
+- Put and get benchmarks for message_store-postgres
+- Advisory locking isn't serializing the writes
+- Worked on various implementations of the locks trying to find why it's not working as I'd expected
+
+## Fri Jun 01 2018
+- Put and get benchmarks for message_store-postgres
+- Adjustments to diagnostics-sample to support message_store-postgres benchmarks
+
+## Thu May 31 2018
+- Put and get benchmarks for message_store-postgres
+- Adjustments to diagnostics-sample to support message_store-postgres benchmarks
+- Established patterns for benchmarking
+
+## Wed May 30 2018
+- Put and get benchmarks for message_store-postgres
+
+## Wed May 30 2018
+- Put and get benchmarks for message_store-postgres
+
 ## Sat May 5 2018 - Sat May 12 2018
 - Workshops in Toronto
 
