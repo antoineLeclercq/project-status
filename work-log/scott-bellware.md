@@ -1,5 +1,19 @@
 # Scott Bellware Work Log
 
+## Fri Jun 08 2018
+- Finished retrieval server functions
+- Bechmarked gets (No regression due to server functions)
+- Removed database scripts and tools to their own package
+
+## Thu Jun 07 2018
+- Retrieval server functions
+
+## Wed Jun 06 2018
+- Started working on retrieval server functions
+
+## Tue Jun 05 2018
+- Advisory locks and benchmarks
+
 ## Mon Jun 04 2018
 - Put and get benchmarks for message_store-postgres
 - Struggled with Advisory locks
