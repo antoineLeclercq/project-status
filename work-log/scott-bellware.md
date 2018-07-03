@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Mon Jul 02 2018
+- Documentation
+- Completed core concepts section
+
 ## Mon Jun 25 2018 - Fri Jun 29 2018
 - Documentation
 
