@@ -1,5 +1,26 @@
 # Scott Bellware Work Log
 
+## Mon Jun 25 2018 - Fri Jun 29 2018
+- Documentation
+
+## Mon Jun 18 2018 - Fri Jun 22 2018
+- Documentation
+
+## Fri Jun 15 2018
+- GoRuCo prep and travel
+
+## Thu Jun 14 2018
+- GoRuCo prep
+
+## Wed Jun 13 2018
+- GoRuCo prep
+
+## Tue Jun 12 2018
+- Standalone Postgres message store
+
+## Mon Jun 11 2018
+- Standalone Postgres message store
+
 ## Fri Jun 08 2018
 - Finished retrieval server functions
 - Bechmarked gets (No regression due to server functions)
