@@ -1,5 +1,10 @@
 # Scott Bellware Work Log
 
+## Tue Jul 03 2018 - Wed Jul 11
+- Documentation
+- Completed messages and message data user guide
+- Changed MessageStore::MessageData to enforce data and metadata types to Hash
+
 ## Mon Jul 02 2018
 - Documentation
 - Completed core concepts section
