@@ -1,5 +1,22 @@
 # Scott Bellware Work Log
 
+## Sat Jul 28 2018
+- Got together with Nathan and reviewed Cycle implementation
+- Figured out the all of the ambiguity came from the name of the "maximum_milliseconds" attribute
+- After reminding ourselves that the use of the maximum_milliseconds is as the polling interval, we realized that it should have always been named "interval_milliseconds"
+- We also had to remind ourselves that the polling interval is only active when the action actuated by the cycle does not return a result, as when no new messages are returned to the consumer
+- [decision] We'll rename Cycle's maximum_milliseconds to interval_milliseconds, and reflect those changes in Consumers
+- It was also apparent in the review of Cycle that the tests were insufficient
+- [decision] More work will be done on Cycle to generally improve the internals and to improve the automated tests and testing
+- [observation] The Cycle library is the product of creating a new library while exhausted
+- [plan] Will do the maximum_milliseconds rename work Mon Jul 30
+- [plan] Will do the Cycle completion work on Tue Jul 31
+- [plan] Will do the new message store summary reports on Sun Jul 29
+- We reviewed the consumer implementation and talked about simplifications
+- Nathan went over proposals for changes to the Consumer library. Essentially, instead of having platform implementations of consumer (Consumer::Postgres and Consumer::EventStore), there would only be a one generalized implementation and macros for specifying the reader and the position store.
+- Each platform's position store will become their own libraries
+- We also surfaced two new summary reports to add the to message store library for Postgres
+
 ## Fri Jul 27 2018
 - Consumer documentation
 - Struggled with use and implementation of Cycle in Consumer
