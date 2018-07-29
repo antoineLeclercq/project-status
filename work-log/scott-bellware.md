@@ -1,5 +1,19 @@
 # Scott Bellware Work Log
 
+## Fri Jul 27 2018
+- Consumer documentation
+- Struggled with use and implementation of Cycle in Consumer
+- Traced execution, but still can't understand (or remember) how Cycle/Consumer are working
+- Notified Nathan of need to get together to review the implementation
+
+## Mon Jul 16 2018 - Thu Jul 26
+- Documentation
+- Message store summary reports
+- Adoption of common table expressions and views in message store reporting
+- Startup and shutdown logging in component host
+- Account basics example
+- Log tagging clarification
+
 ## Tue Jul 03 2018 - Wed Jul 11
 - Documentation
 - Completed messages and message data user guide
