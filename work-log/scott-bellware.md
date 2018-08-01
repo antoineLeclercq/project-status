@@ -1,5 +1,13 @@
 # Scott Bellware Work Log
 
+## Sun Jul 29 2018
+- Two new summary reports for the Postgres database: By category and type, and by type and category
+- The documentation for the database administration tools is better organized due to the growing list of tools, and includes a table of contents
+- Vestigial interactive tests for obsolete database functions are removed
+- Created separate tools to update views and update functions, as well as a generalized database update tool
+- Published project status report
+- Announced v1 release target date of Oct 1
+
 ## Sat Jul 28 2018
 - Got together with Nathan and reviewed Cycle implementation
 - Figured out the all of the ambiguity came from the name of the "maximum_milliseconds" attribute
