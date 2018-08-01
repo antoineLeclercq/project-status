@@ -1,5 +1,11 @@
 # Scott Bellware Work Log
 
+## Mon Jul 30 2018
+- Renamed the consumer's position updated event to recorded
+- Write script to rename the event in users' message stores
+- Announced the breaking change
+- Renamed cycle and consumer's maximum_milliseconds to interval_milliseconds
+
 ## Sun Jul 29 2018
 - Two new summary reports for the Postgres database: By category and type, and by type and category
 - The documentation for the database administration tools is better organized due to the growing list of tools, and includes a table of contents
