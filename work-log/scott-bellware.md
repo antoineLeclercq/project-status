@@ -1,5 +1,17 @@
 # Scott Bellware Work Log
 
+## Tue Jul 31 2018
+- Command line generator now generates the store with the snapshot configuration
+- Good deal of discussion with users about command line tools and code generators
+- Account basics is included in the list of sample projects in the docs
+- Started working through the Cycle tests, assessing completeness
+- Decided to stop and write out permutations and test cases from scratch
+- Found tests rather light
+- Changed tack to use actual blocks rather than only testing telemetry
+- Will test telemetry and substitute as separate tests
+- Discovered the None no-op is utterly unnecessary if interval and timeout are just coalesced to 0.
+- Proceeding with sketches until the design crystallizes
+
 ## Mon Jul 30 2018
 - Renamed the consumer's position updated event to recorded
 - Write script to rename the event in users' message stores
