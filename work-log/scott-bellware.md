@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Wed Aug 1 2018
+- Minimal work on Cycle
+- Predominantly administrative work
+
 ## Tue Jul 31 2018
 - Command line generator now generates the store with the snapshot configuration
 - Good deal of discussion with users about command line tools and code generators
