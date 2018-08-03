@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Thu Aug 2 2018
+- Mostly user support
+- Met with Nathan later in the afternoon
+
 ## Wed Aug 1 2018
 - Minimal work on Cycle
 - Predominantly administrative work
