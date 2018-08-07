@@ -1,5 +1,8 @@
 # Scott Bellware Work Log
 
+## Fri Aug 3 2018
+- User support
+
 ## Thu Aug 2 2018
 - Mostly user support
 - Met with Nathan later in the afternoon
