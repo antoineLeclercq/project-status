@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Mon Aug 6 2018
+- User support
+- Cycle rework
+
 ## Fri Aug 3 2018
 - User support
 
