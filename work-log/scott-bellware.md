@@ -2,6 +2,7 @@
 
 ## Thu Aug 9 2018
 - Discussion with users about validation
+- Database update script recreates indexes
 - Clerical
 
 ## Wed Aug 8 2018
