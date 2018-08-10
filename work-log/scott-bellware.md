@@ -1,5 +1,19 @@
 # Scott Bellware Work Log
 
+## Thu Aug 9 2018
+- Discussion with users about validation
+- Clerical
+
+## Wed Aug 8 2018
+- Support users in transition to new consumer and poll
+- Discussion with users about deployment process
+- Met with Nathan for review and scheduling/planning
+
+## Tue Aug 7 2018
+- Cycle rework
+- Rename Cycle to Poll and retire Cycle
+- Retrofit Consumer to new implementation of Poll
+
 ## Mon Aug 6 2018
 - User support
 - Cycle rework
