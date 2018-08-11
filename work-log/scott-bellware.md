@@ -1,5 +1,11 @@
 # Scott Bellware Work Log
 
+## Fri Aug 10 2018
+- User support
+- Published old implementations of fixtures
+- Got conversation about fixtures going
+- Started resurrection of consumer user guide
+
 ## Thu Aug 9 2018
 - Discussion with users about validation
 - Database update script recreates indexes
