@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Mon Aug 13 2018
+- Administrative
+- Updated load_path.rb for all projects
+
 ## Fri Aug 10 2018
 - User support
 - Published old implementations of fixtures
