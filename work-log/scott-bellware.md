@@ -1,5 +1,11 @@
 # Scott Bellware Work Log
 
+## Tue Aug 14 2018
+- Administrative
+- Matt contributed READMEs for Clock and Identifier::UUID
+- Reviewed Matt's documentation and made some additions
+- The full interfaces are not documented, but the basics are covered. Good step forward!
+
 ## Mon Aug 13 2018
 - Administrative
 - Updated load_path.rb for all projects
