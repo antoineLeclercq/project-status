@@ -1,5 +1,8 @@
 # Scott Bellware Work Log
 
+## Wed Aug 15 2018
+- Administrative and Legal
+
 ## Tue Aug 14 2018
 - Administrative
 - Matt contributed READMEs for Clock and Identifier::UUID
