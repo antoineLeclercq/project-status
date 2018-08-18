@@ -1,5 +1,8 @@
 # Scott Bellware Work Log
 
+## Thu Aug 16 2018
+- Administrative and Legal
+
 ## Wed Aug 15 2018
 - Administrative and Legal
 
