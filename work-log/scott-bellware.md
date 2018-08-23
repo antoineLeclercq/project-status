@@ -1,5 +1,13 @@
 # Scott Bellware Work Log
 
+## Wed Aug 22 2018
+- Administrative
+- User support
+- Worked with Brad, Matt, and Nathan via slack on design of an import service
+
+## Tue Aug 21 2018
+- Administrative
+
 ## Mon Aug 20 2018
 - Administrative
 
