@@ -1,5 +1,24 @@
 # Scott Bellware Work Log
 
+## Sat Sep 1 2018
+- ComponentHost standardization
+- ComponentHost user guide
+
+## Fri Aug 31 2018
+- ComponentHost user guide
+
+## Thu Aug 30 2018
+- ComponentHost user guide
+
+## Wed Aug 29 2018
+- ComponentHost user guide
+
+## Tue Aug 28 2018
+- ComponentHost user guide
+
+## Mon Aug 27 2018
+- ComponentHost user guide
+
 ## Wed Aug 22 2018
 - Administrative
 - User support
