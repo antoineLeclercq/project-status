@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Sun Sep 2 2018
+- Cataloged missing READMEs
+- Prioritized README work items in ZenHub
+
 ## Sat Sep 1 2018
 - ComponentHost standardization
 - ComponentHost user guide
