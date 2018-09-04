@@ -1,5 +1,10 @@
 # Scott Bellware Work Log
 
+## Mon Sep 3 2018
+- Lots of project administration
+- Updated existing readme's with links to docs
+- Updated the EventStore gem with startup doc link
+
 ## Sun Sep 2 2018
 - Cataloged missing READMEs
 - Prioritized README work items in ZenHub
