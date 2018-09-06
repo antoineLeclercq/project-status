@@ -1,5 +1,11 @@
 # Scott Bellware Work Log
 
+## Wed Sep 5 2018
+- Clock README pull request from Eric Farkas
+- Test TruffleRuby 1.0.0-rc6
+- TruffleRuby works. It's still slow.
+- File issue with TruffleRuby regarding pg gem v1.1.2 not building
+
 ## Tue Sep 4 2018
 - Administrative
 - Accounting
