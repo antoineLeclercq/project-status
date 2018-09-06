@@ -1,6 +1,9 @@
 # Scott Bellware Work Log
 
 ## Mon Sep 3 2018
+- Launched Ruby study group
+
+## Mon Sep 3 2018
 - Lots of project administration
 - Updated existing readme's with links to docs
 - Updated the EventStore gem with startup doc link
