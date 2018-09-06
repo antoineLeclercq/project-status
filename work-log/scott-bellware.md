@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Tue Sep 4 2018
+- Administrative
+- Accounting
+
 ## Mon Sep 3 2018
 - Launched Ruby study group
 
