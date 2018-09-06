@@ -1,5 +1,9 @@
 # Scott Bellware Work Log
 
+## Thu Sep 6 2018
+- Update contributors page
+- Review workshop materials
+
 ## Wed Sep 5 2018
 - Clock README pull request from Eric Farkas
 - Test TruffleRuby 1.0.0-rc6
